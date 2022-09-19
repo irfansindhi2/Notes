@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "42cb5f5841b00a9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f90454a5b51ead53",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NSF/links needed to code.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1da391eebf391344",
+    "type": "split",
+    "children": [
+      {
+        "id": "c135db922370a49d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba4dbf6bf733075c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "259b88ee55012a4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5558ad74466dc435",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cdbcd161cce30a15",
+    "type": "split",
+    "children": [
+      {
+        "id": "a96c672227cb1288",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4d332968b593763",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NSF/links needed to code.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b1d15ac1ac7e838",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NSF/links needed to code.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ffe8d7cbcea8827",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3a114681c380a252",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NSF/links needed to code.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f90454a5b51ead53",
+  "lastOpenFiles": [
+    "NSF/general links.md",
+    "NSF/links needed to code.md",
+    "timesheet info.png",
+    "Timesheets/timesheet info.md",
+    "Jira.md"
+  ]
+}

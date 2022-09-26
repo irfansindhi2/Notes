@@ -19,3 +19,7 @@ query: fields @timestamp, @message, @log
 | limit 10
 | fields tomillis(@timestamp) as millis
 | filter millis > 1663308000000 and millis < 1663387200000
+
+Migrate MyNSF Spring application to Springboot: https://confluence.nsf.gov/pages/viewpage.action?spaceKey=MYNSF&title=Migrate+MyNSF+Spring+application+to+Springboot
+
+Helm project repos: https://bitbucket.nsf.gov/projects/HELM/repos/
